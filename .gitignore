@@ -1,0 +1,18 @@
+# Ignorar o Ambiente Virtual e Cache do Python
+venv/
+__pycache__/
+*.pyc
+
+# Ignorar a pasta do Banco de Dados Vetorial (ChromaDB)
+DB/meu_banco_chroma/
+*.sqlite3
+
+# Ignorar arquivos temporários, PDFs e imagens extraídas pelo código
+DOC/
+*.png
+*.jpg
+*.jpeg
+*.pdf
+
+# Ignorar variáveis de ambiente (segurança)
+.env
