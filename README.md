@@ -32,5 +32,4 @@ Este projeto é um sistema **RAG (Retrieval-Augmented Generation)** corporativo 
 
 1. Clone o repositório:
    ```bash
-   git clone [https://github.com/SEU_UTILIZADOR/SEU_REPOSITORIO.git](https://github.com/SEU_UTILIZADOR/SEU_REPOSITORIO.git)
-   cd SEU_REPOSITORIO
+   [git clone [(https://github.com/diego-andrade279/Assistente-Corporativo-RAG.git)]
